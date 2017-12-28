@@ -1,0 +1,14 @@
+canvas {
+    /* background: linear-gradient(rgb(133, 110, 110), rgb(88, 88, 51)); */
+    background: #403B4A;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #403B4A, #E7E9BB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #403B4A, #E7E9BB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
